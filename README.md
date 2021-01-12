@@ -9,8 +9,8 @@
 5. Define the accepted values for each column. If possible, use data validation to help ensure consistency.
 6. Keep a separate copy of your original raw data.
 7. Keep raw data in a CSV (comma separated values) file. You can save each sheet in a workbook as its own CSV.
-8. Use a system to name your files and spreadsheet columns. If you don't have one, consider this [naming convention system](https://www2.staffingindustry.com/Editorial/Archived-Blog-Posts/Adam-Pode-s-Blog/Probably-the-best-file-naming-convention-ever).
-9. Don't rely on formatting to convey any information, and avoid destructive formatting, like merging cells.
+8. Don't rely on formatting to convey any information, and avoid destructive formatting, like merging cells.
+9. Use a system to name your files and spreadsheet columns. If you don't have one, consider this [naming convention system](https://www2.staffingindustry.com/Editorial/Archived-Blog-Posts/Adam-Pode-s-Blog/Probably-the-best-file-naming-convention-ever).
 10. Freeze the top row of your spreadsheet.
 11. Use keyboard shortcuts to make common tasks simpler.
 
